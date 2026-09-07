@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: baa65e1f2125da640be30f5db64d73a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4182793190070966850
+    second: WAAZC-removebg-preview_0
+  - first:
+      213: -2147436709414818132
+    second: WAAZC-removebg-preview_1
+  - first:
+      213: 1906822047372124792
+    second: WAAZC-removebg-preview_2
+  - first:
+      213: 9002569515306417697
+    second: WAAZC-removebg-preview_3
+  - first:
+      213: -5986217202872990998
+    second: WAAZC-removebg-preview_4
+  - first:
+      213: 7759438107553112235
+    second: WAAZC-removebg-preview_5
+  - first:
+      213: -8249328199756276998
+    second: WAAZC-removebg-preview_6
+  - first:
+      213: 3467687132014351233
+    second: WAAZC-removebg-preview_7
+  - first:
+      213: -8916040115102148186
+    second: WAAZC-removebg-preview_8
+  - first:
+      213: 4087010664971262411
+    second: WAAZC-removebg-preview_9
+  - first:
+      213: 5388224044070606916
+    second: WAAZC-removebg-preview_10
+  - first:
+      213: -5235760603501809208
+    second: WAAZC-removebg-preview_11
+  - first:
+      213: -5019282100700024339
+    second: WAAZC-removebg-preview_12
+  - first:
+      213: 6166554670686087129
+    second: WAAZC-removebg-preview_13
+  - first:
+      213: -2378740451482683729
+    second: WAAZC-removebg-preview_14
+  - first:
+      213: -5479798204941446002
+    second: WAAZC-removebg-preview_15
+  - first:
+      213: 5195812075889949612
+    second: WAAZC-removebg-preview_16
+  - first:
+      213: 6603086918081690068
+    second: WAAZC-removebg-preview_17
+  - first:
+      213: 7024047659344515218
+    second: WAAZC-removebg-preview_18
+  - first:
+      213: 7756932256255533682
+    second: WAAZC-removebg-preview_19
+  - first:
+      213: 9056462517212572556
+    second: WAAZC-removebg-preview_20
+  - first:
+      213: 6567554955881423103
+    second: WAAZC-removebg-preview_21
+  - first:
+      213: 6589608453604191719
+    second: WAAZC-removebg-preview_22
+  - first:
+      213: -6712344743471545988
+    second: WAAZC-removebg-preview_23
+  - first:
+      213: -6962491691686117854
+    second: WAAZC-removebg-preview_24
+  - first:
+      213: 8862870434273718951
+    second: WAAZC-removebg-preview_25
+  - first:
+      213: 2743854560357476723
+    second: WAAZC-removebg-preview_26
+  - first:
+      213: -6581517598612763366
+    second: WAAZC-removebg-preview_27
+  - first:
+      213: 8734735883416423326
+    second: WAAZC-removebg-preview_28
+  - first:
+      213: 8093469122740226105
+    second: WAAZC-removebg-preview_29
+  - first:
+      213: 2500275760215850025
+    second: WAAZC-removebg-preview_30
+  - first:
+      213: 6855594227680927285
+    second: WAAZC-removebg-preview_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 279
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a5a17be344c0a30800000000000000
+      internalID: 4182793190070966850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 279
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae22bdb0b5c232e0800000000000000
+      internalID: -2147436709414818132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 280
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872af7f9c84667a10800000000000000
+      internalID: 1906822047372124792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 280
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e7999c64d8fec70800000000000000
+      internalID: 9002569515306417697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 279
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae24c6a9b2faceca0800000000000000
+      internalID: -5986217202872990998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 279
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba02559f8df0fab60800000000000000
+      internalID: 7759438107553112235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 280
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa1ae985bf748d80800000000000000
+      internalID: -8249328199756276998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 279
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18398efe213bf1030800000000000000
+      internalID: 3467687132014351233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 187
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9143821ccd34480800000000000000
+      internalID: -8916040115102148186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 187
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc958debb8af7b830800000000000000
+      internalID: 4087010664971262411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 187
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4481c055831d6ca40800000000000000
+      internalID: 5388224044070606916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 187
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13a4ba877d657b0800000000000000
+      internalID: -5235760603501809208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 187
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de17c40d58de75ab0800000000000000
+      internalID: -5019282100700024339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 188
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7254a1dc0049550800000000000000
+      internalID: 6166554670686087129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 188
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6b58899240dfed0800000000000000
+      internalID: -2378740451482683729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 187
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8454a9d098d3f3b0800000000000000
+      internalID: -5479798204941446002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 96
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabfa1fed8b3b1840800000000000000
+      internalID: 5195812075889949612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9b94d3190e2ab50800000000000000
+      internalID: 6603086918081690068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 95
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290d4a4912e6a7160800000000000000
+      internalID: 7024047659344515218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 95
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27261e00ac826ab60800000000000000
+      internalID: 7756932256255533682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 97
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b681c1da40fad70800000000000000
+      internalID: 9056462517212572556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 98
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff02b2c9f64a42b50800000000000000
+      internalID: 6567554955881423103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 95
+        width: 47
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed2dfda9fdf27b50800000000000000
+      internalID: 6589608453604191719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 97
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c710b63f406f8d2a0800000000000000
+      internalID: -6712344743471545988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb07df1b2406f90800000000000000
+      internalID: -6962491691686117854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a27235d3bd3ffa70800000000000000
+      internalID: 8862870434273718951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 3
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37961716f21241620800000000000000
+      internalID: 2743854560357476723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 3
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d44bb4d90c9a4a0800000000000000
+      internalID: -6581517598612763366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc4e1e104083970800000000000000
+      internalID: 8734735883416423326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938068d3947c15070800000000000000
+      internalID: 8093469122740226105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 3
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c7f209e83c2b220800000000000000
+      internalID: 2500275760215850025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WAAZC-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ed329a0a6f32f50800000000000000
+      internalID: 6855594227680927285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4880d160a00f47d48a889cb41e99a550
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      WAAZC-removebg-preview_0: 4182793190070966850
+      WAAZC-removebg-preview_1: -2147436709414818132
+      WAAZC-removebg-preview_10: 5388224044070606916
+      WAAZC-removebg-preview_11: -5235760603501809208
+      WAAZC-removebg-preview_12: -5019282100700024339
+      WAAZC-removebg-preview_13: 6166554670686087129
+      WAAZC-removebg-preview_14: -2378740451482683729
+      WAAZC-removebg-preview_15: -5479798204941446002
+      WAAZC-removebg-preview_16: 5195812075889949612
+      WAAZC-removebg-preview_17: 6603086918081690068
+      WAAZC-removebg-preview_18: 7024047659344515218
+      WAAZC-removebg-preview_19: 7756932256255533682
+      WAAZC-removebg-preview_2: 1906822047372124792
+      WAAZC-removebg-preview_20: 9056462517212572556
+      WAAZC-removebg-preview_21: 6567554955881423103
+      WAAZC-removebg-preview_22: 6589608453604191719
+      WAAZC-removebg-preview_23: -6712344743471545988
+      WAAZC-removebg-preview_24: -6962491691686117854
+      WAAZC-removebg-preview_25: 8862870434273718951
+      WAAZC-removebg-preview_26: 2743854560357476723
+      WAAZC-removebg-preview_27: -6581517598612763366
+      WAAZC-removebg-preview_28: 8734735883416423326
+      WAAZC-removebg-preview_29: 8093469122740226105
+      WAAZC-removebg-preview_3: 9002569515306417697
+      WAAZC-removebg-preview_30: 2500275760215850025
+      WAAZC-removebg-preview_31: 6855594227680927285
+      WAAZC-removebg-preview_4: -5986217202872990998
+      WAAZC-removebg-preview_5: 7759438107553112235
+      WAAZC-removebg-preview_6: -8249328199756276998
+      WAAZC-removebg-preview_7: 3467687132014351233
+      WAAZC-removebg-preview_8: -8916040115102148186
+      WAAZC-removebg-preview_9: 4087010664971262411
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

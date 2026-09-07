@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f3f2a52dcf0bbcf46878a453166b1e05
+  - enabled: 1
+    path: Assets/Scenes/LoseScreen.unity
+    guid: c7e0a1cf7687ad64391a015acadf2f00
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: dfb8e71921c8a4f4299086346feca156
+  - enabled: 1
+    path: Assets/Scenes/GasMinigame.unity
+    guid: e08458f8489758b46b26fd15766c47f5
+  - enabled: 1
+    path: Assets/Scenes/FoodMinigame.unity
+    guid: bb3c41ac1a8bfc5408fb4dc973fa6f98
+  - enabled: 1
+    path: Assets/Scenes/Choices.unity
+    guid: 954689ca652a2c0418294bc282a656a0
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 89e2f42770d104f4c9d885b3e828b9ad
+  - enabled: 1
+    path: Assets/Scenes/MovementScene.unity
+    guid: 0b7475f0fbfaa4e49a6b99cf743bf99c
+  - enabled: 1
+    path: Assets/Scenes/Repair Minigame.unity
+    guid: 322d40963410d4772a635916941d533c
+  - enabled: 1
+    path: Assets/Scenes/Results.unity
+    guid: 26b6cc3eae44bfe4e96dfc8f2828dcf5
+  - enabled: 1
+    path: Assets/Scenes/StorySlides.unity
+    guid: 4012ad4425a01de48912c541b9dde842
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 0012b5e2145231243a8b8fe0e7bc91c4
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
