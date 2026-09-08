@@ -14,6 +14,7 @@ My Contributions
 - Implemented the transitions between story/travel events
 - Pitched the initial concept to the team and led a beta release to peers, 
   gathering feedback that shaped revisions before final submission
+- Head game tester and bug fixer
 
 Features
 - Complex scrolling map system driving progression across the trail
